@@ -279,3 +279,8 @@ Adding the animation takes place using `animation: slide-up 0.4s ease;`. Includi
 
 ## Conclusion
 So we have discussed a lot of things in this guide. We set the dummy database with API functioning on a set timeout and learned how to animate a newly appended element in React. We have also learned how to include the animated elements in a dynamic webpage.
+
+## References
+While writing this guide, the following resources have been referred:
+- [Animating Newly Appended Element in React.js, Referred on June 19, 2019](https://stackoverflow.com/questions/31519455/animating-newly-appended-element-in-react-js)
+- [Animating Dynamically Created Elements (Pure CSS), Referred on June 19, 2019](https://codeburst.io/animating-dynamically-created-elements-pure-css-c864fdb6e366)
