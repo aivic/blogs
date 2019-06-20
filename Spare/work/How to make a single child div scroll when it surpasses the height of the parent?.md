@@ -8,7 +8,7 @@ In order to make the demonstration function precisely, let us have a glance over
 
 There are two child divs which are nested within a parent component div in the given row-column array. The parent component is denoted by columns, whereas the rows represent the children. 
 
-IMG 3
+![Imgur](https://i.imgur.com/yfg7Add.png)
 
 There are certain aspects that we have set uptight for the case in order to avail the inference right as per the need. The upper child div is going to be of the variable height; but it's fully assured that the height of the concerned child div be less in comparison to that of the parent div.
 
