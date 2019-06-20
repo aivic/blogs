@@ -103,11 +103,11 @@ Here, it is worth mentioning that the Index comes directly from an array and whe
 ## Newly Appended Element in a Dynamic Web Page
 If we look at the demonstration of newly appended elements using React JS in a dynamic web page, then it would look like the following:
 
-IMG 1
+![Imgur](https://i.imgur.com/KguLqkm.png)
 
 As you can see the dialogue boxes automatically appear in the rows when the individual click on the `Load more` button and expect for the results to flow down simultaneously. 
 
-IMG 2
+![Imgur](https://i.imgur.com/xt1RYyb.png)
 
 Now, as you can see in the rows of these dummy items, it is essential that all the boxes do adjust with the margins and can be loaded in a fast and seamless manner. It is quite a critical factor, as if a demanding visitor once makes a visit to the website, it is essential that the concerned items can render swift results to make the time spent on the page worthwhile. 
 
