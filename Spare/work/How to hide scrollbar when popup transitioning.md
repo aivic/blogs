@@ -68,7 +68,7 @@ Have a look at the example down below on how the commands are implemented in ord
 </ html>      
 ```
 
-IMG 2
+![Imgur](https://i.imgur.com/cN3pMHN.png)
 
 ## Hiding Horizontal Scroll Bar During the Transition 
 Now let us take the following example of the commands displayed in the code block below. It is a situation that you usually faces while doing the changes in the scroll animation. Just go through the commands of the animation shown below and see what results you acquire and how you can bring change in the same by hiding the scroll bar.
